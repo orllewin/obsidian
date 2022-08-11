@@ -1,1 +1,3 @@
-# Coracle
+[Coracle](https://orllewin.github.io/coracle/) is a cross-platform sketch playground written in Kotlin. It should work fine anywhere Kotlin runs, all that's needed is a platform-specific implementation of the Renderer class, but lack of time means there's currently only support for the web and Android.
+
+Coracle was created after I had to port one too many experiments between the various Processing implementations, mainly from [JVM Processing](https://processing.org/) to [p5js](https://p5js.org/). The idea is the drawing (sketch) itself is concrete, you just supply a Renderer that... renders the sketch.
