@@ -1,0 +1,1 @@
+The Upper Calder Valley is in West Yorkshire and includes Todmorden, Hebden Bridge, Mytholmroyd. We live in [[Sourhall]] which on a hillin Todmorden next to Todmorden Moor.

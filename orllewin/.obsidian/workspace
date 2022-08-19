@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f2527384ab29170a",
+        "id": "6b886e35c5c4ce24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/radio/Radio.md",
+            "file": "tech/Android.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/radio/Radio.md",
+                "file": "tech/Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/radio/Radio.md",
+                "file": "tech/Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/radio/Radio.md"
+                "file": "tech/Android.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2527384ab29170a",
+  "active": "6b886e35c5c4ce24",
   "lastOpenFiles": [
-    "projects/coracle/drawings/api/Line.md",
-    "projects/coracle/Coracle.md",
-    "notes/20220812.md",
-    "notes/20220811.md",
-    "notes/20220810.md",
+    "tech/Projects.md",
     "Orllewin.md",
-    "stones/Stones.md",
-    "stones/oxfordshire/Whispering Knights.md",
-    "stones/oxfordshire/King Stone.md",
-    "stones/oxfordshire/Rollright Stones.md"
+    "notes/20220819.md",
+    "notes/images/signal-2022-08-19-150417_002.jpeg",
+    "notes/20220818.md",
+    "notes/images/signal-2022-08-18-102325_002.jpeg",
+    "notes/images/signal-2022-08-18-102301_002.jpeg",
+    "notes/images/signal-2022-08-18-102310_002.jpeg",
+    "notes/images/signal-2022-08-18-102248_002.jpeg",
+    "notes/images/signal-2022-08-18-102215_002.jpeg"
   ]
 }

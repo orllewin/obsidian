@@ -2,7 +2,7 @@
 
 ![[copstone_1.jpeg]]
 
-[OS Grid Ref: NY 49561 21634](https://www.ordnancesurvey.co.uk/osmaps/54.587378308644624,-2.7820061640290117,17.944387435913086/pin/)
+[OS Grid Ref: NY 49561 21634](https://explore.osmaps.com/pin?lat=54.587639&lon=-2.785505&zoom=15.5721)
 
 ```
 

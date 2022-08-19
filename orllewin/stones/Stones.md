@@ -21,6 +21,7 @@ Stones, standing stones, neolithic, megalithic, glacial erratics
 [[Goggleby Stone]] - Shap
 [[Long Meg]]
 [[Mayburgh Henge]] - Yanwath
+[[Sewborwens]] - Greystoke
 [[Skirsgill]] - Penrith
 [[Thunder Stone]] - Shap
 [[White Raise Cairn]] - Askham/Moor Divock

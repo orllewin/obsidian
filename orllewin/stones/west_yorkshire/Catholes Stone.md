@@ -2,7 +2,7 @@
 
 ![[catholes_stone_1.jpg]]
 
-[OS Grid Ref: SD 91984 26268](https://osmaps.ordnancesurvey.co.uk/53.73274,-2.12299,17/pin)
+[OS Grid Ref: SD 91984 26268](https://explore.osmaps.com/pin?lat=53.73274&lon=-2.12299&zoom=17.0000)
 
 ```
 
